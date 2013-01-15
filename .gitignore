@@ -16,3 +16,5 @@ doc/
 .DS_Store
 .idea
 *.iml
+
+bundler_stubs/
